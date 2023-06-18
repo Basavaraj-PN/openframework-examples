@@ -1,9 +1,0 @@
-{
-    "makefile.launchConfigurations": [
-        {
-            "cwd": "/home/omnipotent/open_framework/apps/myApps/pendi/bin",
-            "binaryPath": "/home/omnipotent/open_framework/apps/myApps/pendi/bin/pendi",
-            "binaryArgs": []
-        }
-    ]
-}
